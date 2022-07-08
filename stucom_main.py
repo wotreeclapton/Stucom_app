@@ -1,4 +1,3 @@
-#! python 3
 '''
 STUDENT COMMENTS APPLICATION LAUNCHER developed by Mr Steven J walden
 (Stucom)
